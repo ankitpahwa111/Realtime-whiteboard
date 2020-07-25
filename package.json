@@ -9,7 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start":"node express"
+    "start": "node express"
   },
   "repository": {
     "type": "git",
