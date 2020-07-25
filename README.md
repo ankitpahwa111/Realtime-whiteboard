@@ -32,5 +32,5 @@ node express.js
 ## Demo 
 
 This app is deployed at https://realtime-whiteboard-ankit.herokuapp.com/
-
+<br>
 ![Whiteboard by Ankit Pahwa](./demo.png "Whiteboard by Ankit Pahwa")
